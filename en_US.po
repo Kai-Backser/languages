@@ -869,6 +869,9 @@ msgstr "File %s replaced."
 msgid "最后登录: %s"
 msgstr "Last login: %s"
 
+msgid "菜单"
+msgstr "Menu"
+
 msgid "登出"
 msgstr "Logout"
 
